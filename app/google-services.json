@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "455856999020",
+    "firebase_url": "https://atm18-bd258.firebaseio.com",
+    "project_id": "atm18-bd258",
+    "storage_bucket": "atm18-bd258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455856999020:android:6b07ca3fefccdccb",
+        "android_client_info": {
+          "package_name": "com.brian.atm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455856999020-uoiqqlssqd0t06e2qfbvu14gmnvaste9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brian.atm",
+            "certificate_hash": "fcd02c055bca63b5e616d061d83ce3a692944764"
+          }
+        },
+        {
+          "client_id": "455856999020-ijq3bj7tuslhvko2bf65dkci5usmm8lt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brian.atm",
+            "certificate_hash": "dc8fc5531cb47ea1aad49b8ff43d0f6e0ac93c8c"
+          }
+        },
+        {
+          "client_id": "455856999020-1t56ptm5kq2221omq4a45fl9jd8guhh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFReeBjK_m4W59GSj-ezfJGMtAjZyaHiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455856999020-1t56ptm5kq2221omq4a45fl9jd8guhh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
